@@ -41,17 +41,16 @@ b) Advanced learners :They should use more technical language, highlight edge ca
 
 ## Implementation Examples : 
 
-1) ChatGPT
+## 1)ChatGPT
    
-![builder]()
+![builder](https://github.com/Reshmagvs/FOSSEE_Python_Task2/blob/main/c1.png)   
+![builder](https://github.com/Reshmagvs/FOSSEE_Python_Task2/blob/main/c2.png) 
+![builder](https://github.com/Reshmagvs/FOSSEE_Python_Task2/blob/main/c3.png)
 
-2) Deepseek
+## 2) Deepseek
    
-![builder]()
+![builder](https://github.com/Reshmagvs/FOSSEE_Python_Task2/blob/main/d1.png)
 
-3) Gemini
+## 3) Gemini
    
-![builder]()
-
-
-
+![builder](https://github.com/Reshmagvs/FOSSEE_Python_Task2/blob/main/g1.png)
